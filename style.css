@@ -9,8 +9,8 @@ body{
     margin: 0;
     font-size: 4vw;/*200px;*/
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 0.5vh;
+    left: 0.5vw;
     /*-ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);*/
     font-family: 'Amped For Evil', sans-serif;
