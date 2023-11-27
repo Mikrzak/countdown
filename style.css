@@ -4,17 +4,23 @@
 
 body{
 
-    background-color: black;
-    color:red;
-    margin: 0;
-    font-size: 12vw;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    font-family: 'Amped For Evil', sans-serif;
-    white-space: nowrap;
+   background-color: white;
+   /* background-color: black; */
+   color:red;
+   margin: 0;
+   font-size: 12vw;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   font-family: 'Amped For Evil', sans-serif;
+   white-space: nowrap;
+}
+
+#smiglo{
+   height: 80vh;
+   width: 80vw;
 }
 
 .glitch-wrapper {
